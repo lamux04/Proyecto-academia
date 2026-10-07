@@ -143,9 +143,7 @@ Streamlit iniciará la aplicación y proporcionará una dirección local desde l
 
 ## Demo
 
-A public demo will be available soon.
-
-> La versión pública utilizará datos ficticios y limitará las funcionalidades sensibles, como el envío real de emails.
+👉 [Try the live demo]([TU_URL_DE_STREAMLIT](https://gestionacademia.streamlit.app/alumnos))
 
 ## Purpose
 
